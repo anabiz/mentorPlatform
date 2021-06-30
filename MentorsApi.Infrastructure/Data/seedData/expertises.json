@@ -1,0 +1,22 @@
+[
+    {
+        "Id":1,
+        "ExpertiseType":"Product Designer"
+    },
+    {
+        "Id":2,
+        "ExpertiseType":"Product Manager"
+    },
+    {
+        "Id":3,
+        "ExpertiseType":"Software Developer"
+    },
+    {
+        "Id":4,
+        "ExpertiseType":"Data Science"
+    },
+    {
+        "Id":5,
+        "ExpertiseType":"Cybersecurity"
+    }
+]
